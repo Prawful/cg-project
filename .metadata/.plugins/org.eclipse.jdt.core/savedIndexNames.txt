@@ -38,7 +38,6 @@ INDEX VERSION 1.131+C:\Training\New\Prafulla project\.metadata\.plugins\org.ecli
 1741170530.index
 4215918791.index
 3096152139.index
-1353040456.index
 1047971107.index
 2117231891.index
 845975817.index
