@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Signup Page</title>
-    <link rel="stylesheet" href="Style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <form class="Signup-form">
+        <form class="signup-form">
             <h2>Sign Up</h2>
             <input type="text" placeholder="Username" required>
             <input type="email" placeholder="Email" required>
